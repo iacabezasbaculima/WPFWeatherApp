@@ -16,7 +16,7 @@ This repository provides the full VS project.
 ## API
 The weather data is fetched from [openweathermap.org](https://openweathermap.org/).
  
-The steps required to use this service are:
+To access OpenWeatherMap API:
 
 * OpenWeatherMap [App Key](https://openweathermap.org/appid) (MiniWeather uses 5 Day / 3 Hour Forecast)
 
