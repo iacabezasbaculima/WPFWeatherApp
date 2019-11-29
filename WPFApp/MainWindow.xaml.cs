@@ -1,20 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using WPFApp.Models;
 using WPFApp.Services.OpenWeather;
-using System.Diagnostics;
 using WPFApp.Entities;
 using System.IO;
 using WPFApp.Utils;
@@ -36,6 +29,9 @@ namespace WPFApp
 		private string _iconFolderPath;
 		private static OpenWeatherMapService.QueryType _searchFor = OpenWeatherMapService.QueryType.FIVE_DAYS;
 
+		/// <summary>
+		/// Initialize fields and fetch cities from database
+		/// </summary>
 		public MainWindow()
 		{
 			InitializeComponent();
@@ -48,7 +44,7 @@ namespace WPFApp
 			{
 				cityList = db.Locations.ToList();
 			}
-			// Set the ListView source, i.e. collection
+			// Set the ListView source
 			lv_cities.ItemsSource = cityList;
 			lv_cities.DisplayMemberPath = "City";
 			ForecastPanel.Visibility = Visibility.Collapsed;
@@ -59,7 +55,11 @@ namespace WPFApp
 			// Set path of WeatherIcons
 			_iconFolderPath = $"{appFolder}{"\\WeatherIcons\\"}";
 		}
-
+		/// <summary>
+		/// Fetch weather data in async mode and update UI accordingly
+		/// </summary>
+		/// <param name="location"></param>
+		/// <returns></returns>
 		public async Task GetWeather(string location)
 		{
 			try
@@ -100,6 +100,7 @@ namespace WPFApp
 
 				#region Update UI
 				CityName.Text = currentWeather.City;
+				Country.Text = $", {currentWeather.Country}";
 				WeatherIcon.Source = new BitmapImage(new Uri($"{_iconFolderPath}{currentWeather.ImageId}@2x.png"));
 				Description.Text = currentWeather.Description.First().ToString().ToUpper() + currentWeather.Description.Substring(1);
 				Date.Text = currentWeather.Date.ToString("MM/dd/yyyy");
@@ -152,7 +153,11 @@ namespace WPFApp
 				throw new Exception(ex.Message);
 			}
 		}
-
+		/// <summary>
+		/// Close weather forecast panel and open city list panel
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
 		private void btn_CityListClick(object sender, RoutedEventArgs e)
 		{
 			ForecastPanel.Visibility = Visibility.Collapsed;
@@ -161,7 +166,11 @@ namespace WPFApp
 			tbx_Input.Text = "";	// clear textbox content
 			tbx_Input.Focus();		// set cursor in textbox
 		}
-
+		/// <summary>
+		/// Use input from TextBox to fetch weather data, swap panels
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
 		private void OnKeyDown(object sender, KeyEventArgs e)
 		{
 			if (e.Key == Key.Enter)
@@ -176,7 +185,11 @@ namespace WPFApp
 				}
 			}
 		}
-
+		/// <summary>
+		/// Fetch weather data by clicking on item in the city list
+		/// </summary>
+		/// <param name="sender"></param>
+		/// <param name="e"></param>
 		private void lv_cities_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
 			Location city = (Location)lv_cities.SelectedItem;

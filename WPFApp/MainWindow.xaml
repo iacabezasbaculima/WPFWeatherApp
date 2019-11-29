@@ -24,7 +24,7 @@
                 <TextBlock Margin="2 0">Please type a city and press ENTER:</TextBlock>
                 <TextBox x:Name="tbx_Input" Margin="2 3 2 5" Padding="1.5 1.5"/>
                 <ScrollViewer HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Auto">
-                    <Grid Height="220" >
+                    <Grid Height="285" >
                         <Grid.ColumnDefinitions>
                             <ColumnDefinition Width="103*"/>
                             <ColumnDefinition Width="189*"/>
@@ -38,32 +38,35 @@
             </StackPanel>
 
             <StackPanel Background="#2f5c71" x:Name="ForecastPanel" Visibility="Visible">
-                <Grid Background="#6200EE">
+                <!--<Grid Background="#6200EE">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="3*"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
                     <TextBlock Margin="10 5" Grid.Column="0" HorizontalAlignment="Right" Foreground="White" FontWeight="Bold" FontSize="13">Weather Forecast</TextBlock>
+                </Grid>-->
                     <Button Style="{StaticResource btnDefault}" Click="btn_CityListClick" Margin="2 0" Width="25" Height="25" Grid.Column="1" HorizontalAlignment="Right">
                         <StackPanel Background="Transparent">
                             <Image Source="WeatherIcons\list2.png">
                             </Image>
                         </StackPanel>
                     </Button>
-                </Grid>
-                <TextBlock x:Name="CityName" Foreground="White" FontSize="20" FontWeight="DemiBold" TextAlignment="Center">City Name</TextBlock>
-                <TextBlock x:Name="Date" Foreground="White" FontSize="15" TextAlignment="Center">Wed, 27 November</TextBlock>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                    <TextBlock x:Name="CityName" Foreground="White" FontSize="20" FontWeight="DemiBold" TextAlignment="Center">London</TextBlock>
+                    <TextBlock x:Name="Country" Foreground="White" FontSize="20" FontWeight="DemiBold" TextAlignment="Center">,GB</TextBlock>
+                </StackPanel>
+                <TextBlock x:Name="Date" Margin="0 5" Foreground="White" FontSize="15" HorizontalAlignment="Center">Wed, 27 November</TextBlock>
                 <!--TEMPERATURE-->
-                <Grid Margin="0 5" HorizontalAlignment="Center">
+                <Grid HorizontalAlignment="Center">
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="1.8*"/>
+                        <ColumnDefinition Width="1.5*"/>
                         <ColumnDefinition Width="*"/>
                         <ColumnDefinition Width="*"/>
                     </Grid.ColumnDefinitions>
-                    <Image x:Name="WeatherIcon"  Grid.Column="0" Source="WeatherIcons\01d@2x.png"/>
-                    <TextBlock x:Name="Temp" Grid.Column="1" Foreground="White" FontSize="70">21</TextBlock>
-                    <StackPanel Grid.Column="2" VerticalAlignment="Center">
+                    <Image x:Name="WeatherIcon" Source="WeatherIcons\01d@2x.png"/>
+                    <TextBlock x:Name="Temp" Margin="2 0" Grid.Column="1" Foreground="White" FontSize="70">21</TextBlock>
+                    <StackPanel Grid.Column="2" Margin="5 0 0 0" VerticalAlignment="Center">
                         <TextBlock FontSize="25" TextAlignment="Left" Foreground="White">&#186;</TextBlock>
                         <TextBlock FontSize="25" Foreground="White">C</TextBlock>
                     </StackPanel>

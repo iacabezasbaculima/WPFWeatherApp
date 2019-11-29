@@ -54,3 +54,10 @@ A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
 A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
 A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.baml
 C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.baml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.dll
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.xml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\App.baml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
