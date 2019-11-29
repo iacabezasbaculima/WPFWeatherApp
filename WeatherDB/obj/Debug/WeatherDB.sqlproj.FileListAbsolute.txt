@@ -1,0 +1,22 @@
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dacpac
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dll
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.pdb
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.sqlprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\Model.xml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\refactor.xml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\postdeploy.sql
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\predeploy.sql
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.dll
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dacpac
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.sqlprojAssemblyReference.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.pdb
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dacpac
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.dll
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Debug\WeatherDB.pdb
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.sqlprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.dll
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Debug\WeatherDB.pdb

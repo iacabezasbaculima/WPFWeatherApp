@@ -1,0 +1,14 @@
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Release\WPFApp.exe.config
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Release\WPFApp.exe
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Release\WPFApp.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.csprojAssemblyReference.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\MainWindow.g.cs
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\App.g.cs
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp_MarkupCompile.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp_MarkupCompile.lref
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\MainWindow.baml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.g.resources
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.Properties.Resources.resources
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.csproj.GenerateResource.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.exe
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Release\WPFApp.pdb

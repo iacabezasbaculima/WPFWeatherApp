@@ -1,0 +1,56 @@
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe.config
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.pdb
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\App.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.baml
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.g.resources
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.exe
+C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe.config
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.g.cs
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.g.cs
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.baml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.g.resources
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.exe
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.pdb
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe.config
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.pdb
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.baml
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.g.resources
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.exe
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.pdb
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.dll
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.xml
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.xml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.xml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.baml
+C:\Users\Isaac Baculima\source\repos\WPFNetFrameworkDemos\WPFWeatherApp\WPFApp\obj\Debug\App.baml

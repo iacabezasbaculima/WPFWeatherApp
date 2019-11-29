@@ -1,0 +1,9 @@
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Release\WeatherDB.dacpac
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Release\WeatherDB.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\bin\Release\WeatherDB.pdb
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\Model.xml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\refactor.xml
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\postdeploy.sql
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\predeploy.sql
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\WeatherDB.dll
+A:\WPFNetFrameworkDemos\WPFWeatherApp\WeatherDB\obj\Release\WeatherDB.pdb
