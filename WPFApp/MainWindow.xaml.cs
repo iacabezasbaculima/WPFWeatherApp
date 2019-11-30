@@ -25,7 +25,6 @@ namespace WPFApp
 		private WeatherForecast wTomorrow;
 		private WeatherForecast wAfterTomorrow;
 		private OpenWeatherMapService service;
-		private Task _API_CALL;
 		private string _iconFolderPath;
 		private static OpenWeatherMapService.QueryType _searchFor = OpenWeatherMapService.QueryType.FIVE_DAYS;
 
@@ -171,7 +170,7 @@ namespace WPFApp
 		/// </summary>
 		/// <param name="sender"></param>
 		/// <param name="e"></param>
-		private void OnKeyDown(object sender, KeyEventArgs e)
+		private async void OnKeyDown(object sender, KeyEventArgs e)
 		{
 			if (e.Key == Key.Enter)
 			{
@@ -180,7 +179,7 @@ namespace WPFApp
 					if (tbx_Input.Text != string.Empty)
 					{
 						// Get Data
-						_API_CALL = GetWeather(tbx_Input.Text);
+						await GetWeather(tbx_Input.Text);
 					}
 				}
 			}
@@ -190,7 +189,7 @@ namespace WPFApp
 		/// </summary>
 		/// <param name="sender"></param>
 		/// <param name="e"></param>
-		private void lv_cities_SelectionChanged(object sender, SelectionChangedEventArgs e)
+		private async void lv_cities_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
 			Location city = (Location)lv_cities.SelectedItem;
 
@@ -198,7 +197,7 @@ namespace WPFApp
 			{
 				if (city.City != string.Empty)
 				{
-					_API_CALL = GetWeather(city.City);
+					await GetWeather(city.City);
 				}
 			}
 

@@ -61,3 +61,24 @@ C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\bin\Debug\EntityFramew
 C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
 C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\App.baml
 C:\Users\Isaac Baculima\source\repos\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+A:\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe.config
+A:\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.exe
+A:\WPFWeatherApp\WPFApp\bin\Debug\WPFApp.pdb
+A:\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.dll
+A:\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.dll
+A:\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.xml
+A:\WPFWeatherApp\WPFApp\bin\Debug\EntityFramework.SqlServer.xml
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+A:\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.g.cs
+A:\WPFWeatherApp\WPFApp\obj\Debug\App.g.cs
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_Content.g.cs
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+A:\WPFWeatherApp\WPFApp\obj\Debug\App.baml
+A:\WPFWeatherApp\WPFApp\obj\Debug\MainWindow.baml
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.g.resources
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.Properties.Resources.resources
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.csproj.CopyComplete
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.exe
+A:\WPFWeatherApp\WPFApp\obj\Debug\WPFApp.pdb
