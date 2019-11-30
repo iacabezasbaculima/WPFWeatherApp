@@ -13,15 +13,15 @@ Visual Studio 2019 is recommended, MiniWeather is officially untested in other d
 
 This repository provides the full VS project.
 
-## API
+## OpenWeatherMap API
 The weather data is fetched from [openweathermap.org](https://openweathermap.org/).
  
 To access OpenWeatherMap API:
 
-* OpenWeatherMap [App Key](https://openweathermap.org/appid) (MiniWeather uses 5 Day / 3 Hour Forecast)
+* A OpenWeatherMap [App Key](https://openweathermap.org/appid) is required (MiniWeather uses 5 Day / 3 Hour Forecast)
 
 ## Using Weather Data
-MiniWeather runs OpenWeatherMap API calls to fetch data in XML format, [example](https://openweathermap.org/forecast5#parameter).  
+MiniWeather runs OpenWeatherMap API calls to fetch data in XML format, [example](https://samples.openweathermap.org/data/2.5/forecast?q=London,us&mode=xml&appid=b6907d289e10d714a6e88b30761fae22).  
 
 
 
